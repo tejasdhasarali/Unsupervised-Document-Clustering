@@ -11,3 +11,5 @@
 * Finally the processed web tables were clustered to find the similar web tables using TF-IDF and DBSCAN algorithms.
 
 * The optimal parameter for Word2Vec, DBSCAN and TF-IDF was found using the Randomized Searching Algorithm.
+
+* We also Developed a Heterogeneity based score function to score the DBSCAN clusters and find the optimal parameters.
